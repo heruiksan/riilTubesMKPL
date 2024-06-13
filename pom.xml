@@ -15,7 +15,7 @@
     <dependencies>
         <!-- JUnit Jupiter dependencies -->
         <dependency>
-            <groupId>org.junit.jupiter</groupId>
+            <groupId>org.junit.jupiter</groupId>  
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.8.1</version>
             <scope>test</scope>
